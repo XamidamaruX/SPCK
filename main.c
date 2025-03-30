@@ -8,7 +8,7 @@ int main(int arg, char* argv[])
 		return 0;
 	}
 
-	if(argv[i]) == "--open" || argv[|] == "-0" )
+	
 	{
 		printf("Is opened!");
 		return 0;
